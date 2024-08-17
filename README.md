@@ -75,7 +75,7 @@ To get started with this project, follow these steps:
     
 2. **Open the solution** in Visual Studio:
     
-    *   Open BlogMainStructure.sln in Visual Studio.
+Open BlogMainStructure.sln in Visual Studio.
 
 3. **Restore NuGet packages** :
   
@@ -87,9 +87,8 @@ Update-Package -reinstall
         
 4.  **Run the application**:
     
-    *   Set BlogMainStructure.UI as the startup project.
-        
-    *   Build and run the application.
+Set BlogMainStructure.UI as the startup project.
+Build and run the application.
         
 
 💡 How to Use
