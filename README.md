@@ -19,18 +19,15 @@ This repository contains a basic structure for a **blog site** built using **ASP
 
 📁 Project Structure
 --------------------
+```plaintext
 BlogMainStructure/
 │
-├── BlogMainStructure.sln # Solution file that ties all projects together
-
-├── BlogMainStructure.Business/ # Contains business logic and services
-
-├── BlogMainStructure.Domain/ # Contains domain models and entities
-
+├── BlogMainStructure.sln             # Solution file that ties all projects together
+├── BlogMainStructure.Business/       # Contains business logic and services
+├── BlogMainStructure.Domain/         # Contains domain models and entities
 ├── BlogMainStructure.Infrastructure/ # Handles data access and infrastructure concerns
-
-└── BlogMainStructure.UI/ # ASP.NET Core MVC application for the UI
-
+└── BlogMainStructure.UI/             # ASP.NET Core MVC application for the UI
+```
 
 ✨ Features
 ----------
@@ -71,15 +68,22 @@ This project leverages the following technologies:
 
 To get started with this project, follow these steps:
 
-1.  bashKodu kopyalagit clone https://github.com/your-username/BlogMainStructure.git
+```bash
+ clone https://github.com/your-username/BlogMainStructure.git
+```
     
 2.  **Open the solution** in Visual Studio:
     
     *   Open BlogMainStructure.sln in Visual Studio.
         
-3.  bashKodu kopyalaUpdate-Package -reinstall
-    
+
+
+3.**Restore NuGet packages:**
+
     *   Visual Studio should automatically restore the necessary NuGet packages. If not, you can manually restore them via the Package Manager Console:
+    ```bash
+Update-Package -reinstall
+```
         
 4.  **Run the application**:
     
