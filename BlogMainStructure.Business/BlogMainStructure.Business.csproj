@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DTOs\AppUserDTOs\**" />
+    <Compile Remove="Services\AccountServices\**" />
+    <Compile Remove="Services\AppUserServices\**" />
+    <EmbeddedResource Remove="DTOs\AppUserDTOs\**" />
+    <EmbeddedResource Remove="Services\AccountServices\**" />
+    <EmbeddedResource Remove="Services\AppUserServices\**" />
+    <None Remove="DTOs\AppUserDTOs\**" />
+    <None Remove="Services\AccountServices\**" />
+    <None Remove="Services\AppUserServices\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="4.7.1.1" />
+    <PackageReference Include="Mapster" Version="7.4.0" />
+    <PackageReference Include="MimeKit" Version="4.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlogMainStructure.Infrastructure\BlogMainStructure.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

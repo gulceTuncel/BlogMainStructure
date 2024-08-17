@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Areas\Admin\**" />
+    <Compile Remove="Areas\AppUser\**" />
+    <Compile Remove="Areas\Author\Models\AppUserArticleVMs\**" />
+    <Content Remove="Areas\Admin\**" />
+    <Content Remove="Areas\AppUser\**" />
+    <Content Remove="Areas\Author\Models\AppUserArticleVMs\**" />
+    <EmbeddedResource Remove="Areas\Admin\**" />
+    <EmbeddedResource Remove="Areas\AppUser\**" />
+    <EmbeddedResource Remove="Areas\Author\Models\AppUserArticleVMs\**" />
+    <None Remove="Areas\Admin\**" />
+    <None Remove="Areas\AppUser\**" />
+    <None Remove="Areas\Author\Models\AppUserArticleVMs\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCoreHero.ToastNotification" Version="1.1.0" />
+    <PackageReference Include="Mapster" Version="7.4.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlogMainStructure.Business\BlogMainStructure.Business.csproj" />
+  </ItemGroup>
+
+</Project>

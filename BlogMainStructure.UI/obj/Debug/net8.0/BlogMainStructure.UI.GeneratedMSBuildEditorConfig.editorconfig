@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlogMainStructure.UI
+build_property.RootNamespace = BlogMainStructure.UI
+build_property.ProjectDir = C:\Users\sgtun\Desktop\Blog_MainStructure\BlogMainStructure.UI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sgtun\Desktop\Blog_MainStructure\BlogMainStructure.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Areas/Author/Views/Article/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aG9yXFZpZXdzXEFydGljbGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Areas/Author/Views/Article/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aG9yXFZpZXdzXEFydGljbGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Areas/Author/Views/Article/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aG9yXFZpZXdzXEFydGljbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Areas/Author/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aG9yXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Areas/Author/Views/Tag/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aG9yXFZpZXdzXFRhZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Areas/Author/Views/Tag/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aG9yXFZpZXdzXFRhZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Areas/Author/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aG9yXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Areas/Author/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aG9yXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/Account/MyAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxNeUFjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/Article/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/Article/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/Article/IndexTop5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxJbmRleFRvcDUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgtun/Desktop/Blog_MainStructure/BlogMainStructure.UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cnvljoqe15

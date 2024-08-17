@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GulceTUNCEL_MVC_Exam.UI.props" />
+</Project>

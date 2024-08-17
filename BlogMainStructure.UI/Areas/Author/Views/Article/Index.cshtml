@@ -1,0 +1,58 @@
+﻿@model IEnumerable<BlogMainStructure.UI.Areas.Author.Models.ArticleVMs.AuthorArticleListVM>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ViewCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReadingTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PublishDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TagName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ViewCount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReadingTime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PublishDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TagName)
+                </td>
+                <td>
+                    @Html.ActionLink("Read", "Details", new { id = item.Id })
+            </tr>
+        }
+    </tbody>
+</table>

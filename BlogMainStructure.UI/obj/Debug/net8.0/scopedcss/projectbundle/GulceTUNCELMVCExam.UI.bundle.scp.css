@@ -1,0 +1,147 @@
+/* _content/GulceTUNCELMVCExam.UI/Areas/Admin/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-1iwmhh4yim] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-1iwmhh4yim] {
+  color: #0077cc;
+}
+
+.btn-primary[b-1iwmhh4yim] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-1iwmhh4yim], .nav-pills .show > .nav-link[b-1iwmhh4yim] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-1iwmhh4yim] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-1iwmhh4yim] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-1iwmhh4yim] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-1iwmhh4yim] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-1iwmhh4yim] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/GulceTUNCELMVCExam.UI/Areas/AppUser/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-tvw3eacz0v] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-tvw3eacz0v] {
+  color: #0077cc;
+}
+
+.btn-primary[b-tvw3eacz0v] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-tvw3eacz0v], .nav-pills .show > .nav-link[b-tvw3eacz0v] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-tvw3eacz0v] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-tvw3eacz0v] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-tvw3eacz0v] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-tvw3eacz0v] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-tvw3eacz0v] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/GulceTUNCELMVCExam.UI/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-sv87wr75td] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-sv87wr75td] {
+  color: #0077cc;
+}
+
+.btn-primary[b-sv87wr75td] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-sv87wr75td], .nav-pills .show > .nav-link[b-sv87wr75td] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-sv87wr75td] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-sv87wr75td] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-sv87wr75td] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-sv87wr75td] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-sv87wr75td] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

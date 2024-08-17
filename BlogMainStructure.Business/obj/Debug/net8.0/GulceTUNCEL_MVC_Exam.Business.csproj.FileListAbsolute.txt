@@ -1,0 +1,17 @@
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\bin\Debug\net8.0\GulceTUNCEL_MVC_Exam.Business.deps.json
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\bin\Debug\net8.0\GulceTUNCEL_MVC_Exam.Business.dll
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\bin\Debug\net8.0\GulceTUNCEL_MVC_Exam.Business.pdb
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\bin\Debug\net8.0\GulceTUNCEL_MVC_Exam.Domain.dll
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\bin\Debug\net8.0\GulceTUNCEL_MVC_Exam.Infrastructure.dll
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\bin\Debug\net8.0\GulceTUNCEL_MVC_Exam.Infrastructure.pdb
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\bin\Debug\net8.0\GulceTUNCEL_MVC_Exam.Domain.pdb
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\obj\Debug\net8.0\GulceTUNCEL_MVC_Exam.Business.csproj.AssemblyReference.cache
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\obj\Debug\net8.0\GulceTUNCEL_MVC_Exam.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\obj\Debug\net8.0\GulceTUNCEL_MVC_Exam.Business.AssemblyInfoInputs.cache
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\obj\Debug\net8.0\GulceTUNCEL_MVC_Exam.Business.AssemblyInfo.cs
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\obj\Debug\net8.0\GulceTUNCEL_MVC_Exam.Business.csproj.CoreCompileInputs.cache
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\obj\Debug\net8.0\GulceTUN.89707267.Up2Date
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\obj\Debug\net8.0\GulceTUNCEL_MVC_Exam.Business.dll
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\obj\Debug\net8.0\refint\GulceTUNCEL_MVC_Exam.Business.dll
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\obj\Debug\net8.0\GulceTUNCEL_MVC_Exam.Business.pdb
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam\GulceTUNCEL_MVC_Exam.Business\obj\Debug\net8.0\ref\GulceTUNCEL_MVC_Exam.Business.dll
