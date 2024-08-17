@@ -67,6 +67,7 @@ This project leverages the following technologies:
 ------------------
 
 To get started with this project, follow these steps:
+1.  **Clone the Repository:**
 
 ```bash
  clone https://github.com/your-username/BlogMainStructure.git
