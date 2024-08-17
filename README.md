@@ -77,8 +77,9 @@ To get started with this project, follow these steps:
     
     *   Open BlogMainStructure.sln in Visual Studio.
 
-3.**Restore NuGet packages**:
-    *   Visual Studio should automatically restore the necessary NuGet packages. If not, you can manually restore them via the Package Manager Console:
+3.**Restore NuGet packages** :
+
+ *    Visual Studio should automatically restore the necessary NuGet packages. If not, you can manually restore them via the Package Manager Console:
 
 ```bash
 Update-Package -reinstall
