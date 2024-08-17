@@ -73,11 +73,11 @@ To get started with this project, follow these steps:
  clone https://github.com/your-username/BlogMainStructure.git
 ```
     
-2.  **Open the solution** in Visual Studio:
+2. **Open the solution** in Visual Studio:
     
     *   Open BlogMainStructure.sln in Visual Studio.
 
-3.**Restore NuGet packages** :
+3.    **Restore NuGet packages** :
     *    Visual Studio should automatically restore the necessary NuGet packages. If not, you can manually restore them via the Package Manager Console:
 
 ```bash
