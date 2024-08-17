@@ -56,7 +56,7 @@ This project leverages the following technologies:
     
 *   **Dependency Injection**: To manage dependencies and promote a modular architecture.
     
-*   **Automapper or Mapster**: For object-to-object mapping.
+*   **Mapster**: For object-to-object mapping.
     
 *   **Microsoft Identity**: For user authentication and authorization.
     
