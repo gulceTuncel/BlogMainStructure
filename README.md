@@ -20,7 +20,12 @@ This repository contains a basic structure for a **blog site** built using **ASP
 📁 Project Structure
 --------------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   plaintextKodu kopyalaBlogMainStructure/  │  ├── BlogMainStructure.sln             # Solution file that ties all projects together  ├── BlogMainStructure.Business/       # Contains business logic and services  ├── BlogMainStructure.Domain/         # Contains domain models and entities  ├── BlogMainStructure.Infrastructure/ # Handles data access and infrastructure concerns  └── BlogMainStructure.UI/             # ASP.NET Core MVC application for the UI   `
+├── BlogMainStructure.sln             # Solution file that ties all projects together
+├── BlogMainStructure.Business/       # Contains business logic and services
+├── BlogMainStructure.Domain/         # Contains domain models and entities
+├── BlogMainStructure.Infrastructure/ # Handles data access and infrastructure concerns
+└── BlogMainStructure.UI/             # ASP.NET Core MVC application for the UI
+
 
 ✨ Features
 ----------
