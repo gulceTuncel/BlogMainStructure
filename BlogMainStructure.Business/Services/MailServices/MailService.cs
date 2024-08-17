@@ -33,7 +33,7 @@ namespace BlogMainStructure.Business.Services.MailServices
                 var newEmail = new MimeMessage();
 
                 // Set the sender's email address.
-                newEmail.From.Add(MailboxAddress.Parse("gulcetuncell@gmail.com"));
+                newEmail.From.Add(MailboxAddress.Parse("ADD-YOUR-OWN-EMAIL-ADDRESS"));
 
                 // Set the recipient's email address.
                 newEmail.To.Add(MailboxAddress.Parse(mail));
